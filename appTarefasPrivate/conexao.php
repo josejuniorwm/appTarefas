@@ -1,7 +1,7 @@
 <?php
 
   class Conexao {
-
+    // dados de conexão com o banco de dados
     private $host = '172.18.0.3';
     private $dbname = 'php_com_pdo';
     private $user = 'root';
